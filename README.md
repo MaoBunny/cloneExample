@@ -1,3 +1,2 @@
 # cloneExample
 Clone
-bunny
